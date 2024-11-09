@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:mrts/riju/ticketdetails.dart';
+import 'package:mrts/details/ticketdetails.dart';
 import 'station_fare.dart';
 
 class TrainTicketSearch extends StatefulWidget {
